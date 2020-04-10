@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SobelDetection", "Sobel_Detection\SobelDetection.csproj", "{EAEB88CE-C1C5-465B-AE05-106D073F447D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MysobelUnitTest", "MyUnitTestRun\MysobelUnitTest.csproj", "{33342EA8-D3C0-40AB-9F0A-588E53C3BE7C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Soulution Items", "Soulution Items", "{46A1D535-3A42-4437-95C0-EA82487645D2}"
+	ProjectSection(SolutionItems) = preProject
+		ATT79876.editorconfig = ATT79876.editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAEB88CE-C1C5-465B-AE05-106D073F447D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAEB88CE-C1C5-465B-AE05-106D073F447D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAEB88CE-C1C5-465B-AE05-106D073F447D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAEB88CE-C1C5-465B-AE05-106D073F447D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33342EA8-D3C0-40AB-9F0A-588E53C3BE7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33342EA8-D3C0-40AB-9F0A-588E53C3BE7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33342EA8-D3C0-40AB-9F0A-588E53C3BE7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33342EA8-D3C0-40AB-9F0A-588E53C3BE7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {162FE3F8-783C-4F4F-8FC7-7F0A4F868723}
+	EndGlobalSection
+EndGlobal
